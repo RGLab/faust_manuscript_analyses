@@ -14,6 +14,7 @@ Required R libraries are implied by the `library` statements at a head of a give
 
 This directory structure expected by the scripts is provided in the following diagram.
 
+```
 dataSets/publication_gating_sets/
 |-- CITN-07
 |   |-- citn07_longitudinal_gs
@@ -30,6 +31,7 @@ dataSets/publication_gating_sets/
 |   `-- melanoma_gs
 `-- melanoma_facs
     |-- melanoma_facs_gs
+```
 
 The named gating set data structures must be downloaded and placed into the location implied by the above diagram.
 
